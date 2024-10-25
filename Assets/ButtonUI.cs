@@ -11,6 +11,7 @@ public class ButtonUI : MonoBehaviour
     [SerializeField] Button HealButton;
 
     string ButtonName = "Button";
+    //********************************************************************************************************************************
     int damageAmount = 10;
     int healAmount = 10;
 
